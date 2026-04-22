@@ -7,7 +7,7 @@ A structured Python learning resource — annotated, runnable `.py` files organi
 ```
 python-basics/       # Core Python concepts (01–31 topics)
 python-advanced/     # Advanced Python topics (01–15 topics)
-tasks/               # Practice exercises (task-1 through task-20)
+python-tasks/        # Practice exercises (task-1 through task-20)
 ```
 
 ## Python Basics
