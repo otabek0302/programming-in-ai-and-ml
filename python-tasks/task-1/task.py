@@ -52,3 +52,50 @@
 # 3. Split the name into a list of parts.
 # 4. Print: first name, middle name, last name on separate lines.
 # 5. Print the initials joined by dots, e.g.  "J.M.D."
+
+
+# -------------------------------------------------------------
+# TASK 6 – Number Wizard
+# -------------------------------------------------------------
+# 1. Create two string variables: num1 = "50" and num2 = "100".
+# 2. Convert (cast) them to integers.
+# 3. Print their sum, difference, and product.
+# 4. Print the result of num1 repeated 3 times (using string multiplication).
+
+
+# -------------------------------------------------------------
+# TASK 7 – The Formatter
+# -------------------------------------------------------------
+# 1. Store a product name, price (float), and quantity (int).
+# 2. Calculate the total cost.
+# 3. Print a formatted receipt line using f-strings with alignment:
+#    "Item: Apple      | Price: $1.50 | Qty: 5 | Total: $7.50"
+#    (Hint: Use :<10 for padding).
+
+
+# -------------------------------------------------------------
+# TASK 8 – Email Generator
+# -------------------------------------------------------------
+# 1. Store a user's first name and last name in lowercase.
+# 2. Store their birth year as an integer.
+# 3. Generate an email address in the format: last_name.first_name24@company.com
+#    (where 24 is the last two digits of the birth year).
+# 4. Print the generated email.
+
+
+# -------------------------------------------------------------
+# TASK 9 – Secret Code
+# -------------------------------------------------------------
+# 1. Store a word: word = "Knowledge".
+# 2. Extract the first 3 letters and the last 3 letters.
+# 3. Combine them into a "secret code" in all uppercase.
+# 4. Print whether the secret code contains the letter 'E' (True/False).
+
+
+# -------------------------------------------------------------
+# TASK 10 – Multi-line Art
+# -------------------------------------------------------------
+# 1. Use a single print() statement with a multi-line string (triple quotes).
+# 2. Create a simple ASCII art box containing your name.
+# 3. Use \t to indent the name inside the box.
+# 4. Print the final result.
